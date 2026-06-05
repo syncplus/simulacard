@@ -88,7 +88,7 @@ export default function Page() {
         <header className="header">
           <div className="logo">R$</div>
           <div>
-            <div className="title">SimulaCard - Simulador de Taxass</div>
+            <div className="title">SimulaCard - Simulador de Taxas</div>
             <div className="subtitle">Quanto cobrar no cartão para receber o líquido</div>
           </div>
         </header>
